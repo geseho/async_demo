@@ -15,7 +15,7 @@ var log = t.log;
  * 如果不关心错误和最终数据，可以不用写最后那个callback。
  */
 // async.auto(tasks, [callback])
-
+奋斗奋斗过
 /**
  * 我要写一个程序，它要完成以下几件事：
  * 1. 从某处取得数据
