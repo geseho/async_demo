@@ -70,6 +70,9 @@ async.forEach(arr,function(item, callback) {
  * 与forEach相似，但不是并行执行。而是一个个按顺序执行。
  */
 async.forEachSeries(arr, function(item, callback) {
+    if(){
+       
+       }
     log('1.3 enter: ' + item.name);
     setTimeout(function(){
         log('1.3 handle: ' + item.name);
